@@ -1,3 +1,3 @@
-npm run-script build
-docker build -t brendenvogt/web .
+# npm run-script build
+docker build -f Dockerfile -t brendenvogt/web .
 docker push brendenvogt/web

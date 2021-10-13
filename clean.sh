@@ -1,0 +1,1 @@
+docker rmi brendenvogt/web
